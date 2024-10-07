@@ -64,11 +64,11 @@ Because of the extensive history of this project, cloning the datatracker projec
 
 - To fetch only up to the 10 latest commits:
     ```sh
-    git clone --depth=10 https://github.com/USERNAME/datatracker.git
+    git clone --depth=10 https://github.com/1907chuma/datatracker.git
     ```
 - To fetch only up to a specific date:
     ```sh
-    git clone --shallow-since=DATE https://github.com/USERNAME/datatracker.git
+    git clone --shallow-since=DATE https://github.com/chumajesus1907@gmail.com/datatracker.git
     ```
 
 #### The tl;dr to get going
